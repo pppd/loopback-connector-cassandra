@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "async": "^2.3.0",
-    "cassandra-driver": "3.5.0",
+    "cassandra-driver": "^4.6.0",
     "cassandra-map": "0.1.7",
     "debug": "^4.0.1",
     "loopback-connector": "^4.0.0",
@@ -37,7 +37,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/strongloop/loopback-connector-cassandra.git"
+    "url": "https://github.com/pppd/loopback-connector-cassandra.git"
   },
   "license": "MIT"
 }
